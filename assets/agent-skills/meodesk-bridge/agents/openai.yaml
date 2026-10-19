@@ -1,0 +1,3 @@
+display_name: Meodesk Bridge
+short_description: Use Meodesk runtime APIs for board tasks, proposals, and workspace context.
+default_prompt: Use Meodesk Bridge when working inside Meodesk or when the user mentions Meodesk, kanban, workspace windows, widgets, plugins, or automation.

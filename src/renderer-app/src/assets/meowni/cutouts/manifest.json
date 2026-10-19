@@ -1,0 +1,27 @@
+[
+  {
+    "id": "command",
+    "file": "meowni-guide-command.png",
+    "usage": "Existing CLI command field and setup step"
+  },
+  {
+    "id": "help",
+    "file": "meowni-guide-help.png",
+    "usage": "Agent Center setup hint"
+  },
+  {
+    "id": "success",
+    "file": "meowni-guide-success.png",
+    "usage": "Command test passed and save step"
+  },
+  {
+    "id": "warning",
+    "file": "meowni-guide-warning.png",
+    "usage": "Shortcut or desktop app path warning"
+  },
+  {
+    "id": "laptop",
+    "file": "meowni-guide-laptop.png",
+    "usage": "Return to workspace or workshop after saving"
+  }
+]
